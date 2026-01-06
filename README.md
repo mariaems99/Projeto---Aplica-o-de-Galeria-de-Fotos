@@ -1,5 +1,7 @@
 #  Aplicação de Galeria de Fotos -Projeto
 
+**Veja o projeto online aqui:** https://mariaems99.github.io/Projeto---Aplica-o-de-Galeria-de-Fotos/
+
 Este projeto é uma aplicação web simples e funcional que permite visualizar uma galeria de imagens com busca em tempo real. 
 
 ##  Funcionalidades
@@ -41,3 +43,4 @@ Como o projeto utiliza apenas tecnologias nativas, não é necessário instalar 
 - [x] Efeito Hover nas fotos.
 
 ---
+
