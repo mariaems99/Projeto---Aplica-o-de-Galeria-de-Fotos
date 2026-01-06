@@ -1,1 +1,1 @@
-# Projeto---Aplica-o-de-Galeria-de-Fotos
+# Projeto---Aplicacao-de-Galeria-de-Fotos
