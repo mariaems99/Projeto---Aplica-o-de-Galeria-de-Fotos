@@ -16,7 +16,7 @@ Este projeto é uma aplicação web simples e funcional que permite visualizar u
 
 * **HTML5**: Estruturação semântica do conteúdo.
 * **CSS3**: Estilização, layout em Grid e efeitos de transição.
-* **JavaScript (ES6+)**: Manipulação dinâmica do DOM e lógica de filtragem.
+* **JavaScript**: Manipulação dinâmica do DOM e lógica de filtragem.
 
 ## Como rodar o projeto localmente
 
@@ -24,23 +24,23 @@ Como o projeto utiliza apenas tecnologias nativas, não é necessário instalar 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    git clone https://github.com/mariaems99/Projeto---Aplica-o-de-Galeria-de-Fotos.git
     ```
 2.  **Acesse a pasta do projeto:**
     ```bash
-    cd nome-do-repositorio
+    cd (https://github.com/mariaems99/Projeto---Aplica-o-de-Galeria-de-Fotos.git)
     ```
 3.  **Abra o arquivo principal:**
     Basta dar um duplo clique no arquivo `index.html` ou abri-lo através do seu navegador de preferência.
 
 ## Detalhes Técnicos (Requisitos)
 
-- [x] Cabeçalho com título centralizado.
-- [x] Barra de busca acima do grid.
-- [x] Grid de fotos com pelo menos 10 itens.
-- [x] Filtro funcional por nome da foto.
-- [x] Rodapé com informações de copyright de 2026.
-- [x] Efeito Hover nas fotos.
+- Cabeçalho com título centralizado.
+- Barra de busca acima do grid.
+- Grid de fotos com pelo menos 10 itens.
+- Filtro funcional por nome da foto.
+- Rodapé com informações de copyright de 2026.
+- Efeito Hover nas fotos.
 
----
+
 
